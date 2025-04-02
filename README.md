@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evidence Template Project
 
 ## Using Codespaces
@@ -46,3 +47,6 @@ Check out the docs for [alternative install methods](https://docs.evidence.dev/g
 - [Github](https://github.com/evidence-dev/evidence)
 - [Slack Community](https://slack.evidence.dev/)
 - [Evidence Home Page](https://www.evidence.dev)
+=======
+# JG-Dashboard-Speed-VS-Efficiency-page
+>>>>>>> 71439b2df1493b8d90a7c1e986b4345452e4954d
