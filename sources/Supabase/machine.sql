@@ -1,0 +1,1 @@
+select * from jg_furnace_machine_data
